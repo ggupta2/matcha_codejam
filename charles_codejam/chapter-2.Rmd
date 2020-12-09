@@ -1,0 +1,12 @@
+---
+title: "chapter 2"
+author: "Charles T. Gray"
+date: "09/12/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+ 
+## Q2M1 grid approximation
